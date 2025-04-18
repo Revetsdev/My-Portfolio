@@ -478,7 +478,7 @@ html{
 		font-size: 45px;
 		position: relative;
 		padding-bottom: 50px;
-		padding-top: 0.2px;
+		padding-top: 25px;
 	}
 		
 
@@ -488,7 +488,6 @@ html{
 	letter-spacing: 1px;
 	font-size: 15px;
 	position: relative;
-	padding-bottom: 25px;
 	}
 }
 
